@@ -23,7 +23,8 @@ function Navbar(){
           ))}
         
         </div>
-        <Button/>
+        <div className="mx-[3.5rem]">
+        <Button/></div>
     
         </div>
     )
